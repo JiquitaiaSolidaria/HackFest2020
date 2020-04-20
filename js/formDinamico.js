@@ -65,7 +65,7 @@ function nextstep(step) {
                 localStorage.setItem("valueFIN", "3");
                 break;
               case "4":
-                $("#bothelp").text("Para se torna voluntário em uma das instituições, preecha o formulario abaixo e em breve a instituição irá entra em contao com você.");
+                $("#bothelp").text("Para se torna voluntário em uma das instituições, preencha o formulario abaixo e em breve a instituição irá entra em contao com você.");
                 $("#formulario34").show();
                 localStorage.setItem("valueFIN", "4");
                 break;
@@ -165,7 +165,7 @@ var localesMapsName = [
   //adicione os nomes da intituição dos endereçoes de doação de alimentos
 ];
 var localesMapsDesc = [
-  "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  "",
   "Uma breve descrição da intituição de coleta para a tab 01 e do endereço 02."
   //uma breve descrição da instituiçãod e doação
 ];
