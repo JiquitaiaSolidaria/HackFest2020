@@ -4,4 +4,6 @@ Jiquitaia Solidária é uma plataforma que reúne projetos sociais e integra doa
 
 Neste M.V.P entregamos com sucesso os formulários de doação e o cadastro de instituições parceiras. Nosso próximo objetivo é melhorar o formulário de cadastro de voluntários para que assim possamos aumentar a nossa comunidade!
 
+Para Acessar apenas clique no link abaixo!
+
 https://jiquitaiasolidaria.github.io/HackFest2020/. 
